@@ -1,1 +1,1 @@
-First ever REACT project , done in GDG bootcamp 2023 .
+First ever REACT project , done at GDG bootcamp 2023 .
